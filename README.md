@@ -1,7 +1,7 @@
 # analyzing_BI
 TUGAS 3 BUSINESS INTELEGENCE
 
-File Utama
+#File Utama
+- Analyzing Job Market.pbix — dashboard Power BI
 
-Analyzing Job Market.pbix — dashboard Power BI
-job_postings1.xlsx — dataset
+- job_postings1.xlsx — dataset
